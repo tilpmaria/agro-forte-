@@ -10,7 +10,13 @@ O projeto “Monitoramento e certificação” mostra a rastreabilidade sustent�
 
 Por meio de textos, imagens, o site busca aproximar o visitante da realidade do campo e destacar a importância de produzir com responsabilidade ambiental.
 🎯 Objetivo
-O objetivo do projeto é ......................................
+O objetivo principal desse projeto é **criar um sistema de monitoramento para registrar todas as etapas da produção de hortaliças de uma propriedade rural**, garantindo total transparência do campo até a mesa do consumidor.
+
+De forma mais ampla, o projeto busca alcançar os seguintes pontos:
+
+Comprovar a sustentabilidade:Garantir ao consumidor que os alimentos foram cultivados respeitando o meio ambiente e os direitos dos trabalhadores.
+Agregar valor ao produto:Utilizar a tecnologia (como etiquetas com **QR Code**) para diferenciar o produto no mercado, conquistando clientes mais exigentes e melhores preços.
+Otimizar a gestão da fazenda:Melhorar o controle sobre o uso de recursos naturais (água, solo) e insumos (fertilizantes, defensivos), reduzindo desperdícios.
 
 O site busca explicar, de maneira simples e interativa, como a cadeia produtiva da cevada e do malte envolve diferentes etapas, pessoas, tecnologias e impactos positivos para a sociedade.
 
