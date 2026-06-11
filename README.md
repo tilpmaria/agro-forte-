@@ -79,8 +79,7 @@ Responsividade com media queries;Manipulação do DOM com JavaScript;
 Menu de acessibilidade com controle de fonte e contraste;
 
 🖼️ Galeria de Imagens
-casa.jpg  Retirado do site wikimedia Commons ()
-campo.jpg (se for da IA inserir aqui o prompt)
+monitoramento.jpg  IA prompt "crie imagens de acordo com o tema monitoramento e certificação"
 👨‍🎓 Autoria
 Autor(a): Maria Eduarda Oliveira Tilp
 Professor(a) orientador(a): Alexandra 
